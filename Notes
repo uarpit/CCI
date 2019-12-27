@@ -1,0 +1,7 @@
+Timecomplexity - Python objects:
+    https://wiki.python.org/moin/TimeComplexity
+
+len function:
+    Objects keep track of their own length. The time to extract the length is small O(1)
+
+- Function to convert char to ascii value is ord()
