@@ -19,3 +19,8 @@ len function:
 - Usally during the function calls default behaviour in python is copy by referece
 
 - zip function in python lets us iterate on two lists symultaniously 
+
+
+Bit Manipulation:
+XOR = subtract (behaves like modulus)
+
